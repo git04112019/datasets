@@ -19,3 +19,6 @@
     [e-SNLI](http://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations.pdf).
 *   Add SCAN dataset introduced
     [here](https://arxiv.org/pdf/1711.00350.pdf).
+*   Add CFQ (Compositional Freebase Questions) dataset from
+    [this paper](https://openreview.net/pdf?id=SygcCnNKwr).
+
